@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="analysis">
+    <CLASSES>
+      <root url="jar://D:/scala-SDK-4.6.0-vfinal-2.12-win32.win32.x86_64/eclipse/plugins/org.apache.lucene.analysis_3.5.0.v20120725-1805.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/apache-lucene-analyzers.jar/apache-lucene-analyzers.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/IKAnalyzer2012_u6/IKAnalyzer2012_u6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3/lucene-3.0.3/lucene-core-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3/lucene-3.0.3/contrib/analyzers/common/lucene-analyzers-3.0.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3/lucene-3.0.3/contrib/xml-query-parser" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/slf4j-api-1.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/all" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-analyzers" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-ant" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-bdb" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-bdb-je" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-benchmark" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-collation" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-fast-vector-highlighter" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-highlighter" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-instantiated" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-lucli" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-memory" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-misc" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-queries" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-queryparser" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-regex" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-remote" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-smartcn" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-snowball" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-spatial" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-spellchecker" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-surround" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-swing" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-wikipedia" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-wordnet" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/contrib-xml-query-parser" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/core" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/docs/api/demo" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://D:/Program Files/JetBrains/IK Analyzer 2012_u6_source/src" />
+      <root url="jar://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3.zip!/lucene-3.0.3/src/demo" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../code/jars/lucene-3.0.3/lucene-3.0.3/contrib/xml-query-parser" recursive="false" />
+  </library>
+</component>

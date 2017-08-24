@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/lib/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/mysql-connector-java-5.1.22-bin.jar!/" />
+      <root url="jar://D:/jdkinstall/lib/rt.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$APPLICATION_HOME_DIR$/lib/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/lib/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs" recursive="false" />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/lib/spring-framework-4.0.4.RELEASE-dist/spring-framework-4.0.4.RELEASE/libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
